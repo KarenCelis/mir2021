@@ -1,0 +1,4 @@
+cd
+ls -la
+mkdir
+git checkout -b "nombre"
